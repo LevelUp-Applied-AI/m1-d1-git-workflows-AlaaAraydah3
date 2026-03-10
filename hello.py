@@ -1,9 +1,9 @@
 # Module 1 Core Skills Drill — aispire-drill-1-starter
 
 
-def greet(name):
+def greet(AlaaAraydah3):
     """Return a greeting string."""
-    return f"Hello, {name}!"
+    return f"Hello, {AlaaAraydah3}!"
 
 
 print(greet("World"))
